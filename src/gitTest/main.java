@@ -14,4 +14,10 @@ public class main {
         return str1;
     }
 
+    //
+    public static String strFilter2(String str) {
+        String str1 = str;
+        return str1;
+    }
+
 }
