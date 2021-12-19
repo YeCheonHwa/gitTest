@@ -1,0 +1,24 @@
+package gitTest;
+
+public class git3 {
+    public static void main(String[] args) {
+        System.out.println("git branch test projcet");
+        String str = "git";
+
+        System.out.println(strFilter(str));
+        String str = "git";
+    }
+
+    //
+    public static String strFilter(String str) {
+        String str1 = str;
+        return str1;
+    }
+
+    //
+    public static String strFilter2(String str) {
+        String str1 = str;
+        return str1;
+    }
+
+}
