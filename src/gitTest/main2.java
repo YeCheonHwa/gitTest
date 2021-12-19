@@ -6,6 +6,7 @@ public class main2 {
         String str = "git";
 
         System.out.println(strFilter(str));
+        String str = "git";
     }
 
     //
